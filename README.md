@@ -17,6 +17,18 @@
 </h2>
 
 <p>
+  Here are some ideas to get you started:
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rcoil&show_icons=true&theme=radical" width="380">
+
+- 🌱 I’m currently learning Coding, Pentest.
+- 👀 My Blog: https://shanfenglan.blog.csdn.net/
+- 📫 How to reach me: 839735789@qq.com
+- [![GitHub shanfenglan](https://img.shields.io/github/followers/shanfenglan?label=follower%20github&style=flat-square)](https://github.com/shanfenglan)
+
+
+<img align='right' src="https://profile-counter.glitch.me/shanfenglan/count.svg" width="200">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shanfenglan&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanfenglan&theme=radical&layout=compact" />
   
