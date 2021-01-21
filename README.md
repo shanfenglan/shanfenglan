@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shanfenglan/shanfenglan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Hi! </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50"/> Hi! </h2>
 
 <p>
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Shanfenglan&show_icons=true&hide_border=true&theme=buefy">
