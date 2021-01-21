@@ -19,7 +19,7 @@
 
 Here are some ideas to get you started:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanfenglan&show_icons=true&theme=radical" width="400"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanfenglan&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanfenglan&theme=radical&layout=compact" />
 
 - 🌱 I’m currently learning Coding, Pentest.
