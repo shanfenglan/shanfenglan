@@ -17,8 +17,11 @@
 </h2>
 
 <a href="https://github.com/shanfenglan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanfenglan&repo=github-readme-stats&theme=radical" />
 </a>
 <a href="https://github.com/shanfenglan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=radical&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanfenglan&repo=convoychat&theme=radical&show_owner=true" />
+</a>
+<a href="https://github.com/shanfenglan/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanfenglan&show_icons=true&theme=radical" />
 </a>
