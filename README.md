@@ -23,3 +23,4 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shanfenglan&theme=radical&show_owner=true" />
 </a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
