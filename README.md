@@ -17,11 +17,13 @@
 </h2>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanfenglan&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanfenglan&theme=radical" />
 </a>
+
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanfenglan&repo=convoychat&theme=radical&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanfenglan&theme=radical&show_owner=true" />
 </a>
+
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanfenglan&show_icons=true&theme=radical" />
 </a>
