@@ -23,7 +23,3 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanfenglan&theme=radical&show_owner=true" />
 </a>
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanfenglan&show_icons=true&theme=radical" />
-</a>
