@@ -18,5 +18,5 @@
 
 <p>
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Shanfenglan&show_icons=true&hide_border=true&theme=Gradient">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanfenglan&layout=compact&hide_border=true&theme=Gradient&show_icons=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanfenglan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
