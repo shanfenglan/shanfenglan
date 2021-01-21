@@ -17,7 +17,7 @@
 </h2>
 
 
-Here are some ideas to get you started:
+Have a nice day!:
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shanfenglan&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanfenglan&theme=radical&layout=compact" />
