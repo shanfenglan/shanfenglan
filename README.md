@@ -17,7 +17,7 @@
 </h2>
 
 
-<h3>😁  God bless !:</h3>
+<h3>😁  Have a nice day  :</h3>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shanfenglan&show_icons=true&theme=radical"/>
